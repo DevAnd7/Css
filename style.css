@@ -37,3 +37,18 @@ div h2, div h3 { /* todos los div que tengan un h2 y h3 */
     color: rgb(255, 0, 0); valor RGB
 }
 */
+
+.color {
+    border: 5px red solid;
+    /*dotted
+    dashed
+    solid
+    double
+    groove
+    ridge
+    inset
+    outset
+    none
+    hidden
+    */
+}
