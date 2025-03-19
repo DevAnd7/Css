@@ -27,3 +27,12 @@ div h2, div h3 { /* todos los div que tengan un h2 y h3 */
     color: black;
 }
 
+/*
+.color {
+    color: #ff0000; valor HEXAGECIMAL
+}
+*/
+
+.color {
+    color: rgb(255, 0, 0); /* valor RGB */
+}
