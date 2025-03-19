@@ -1,0 +1,23 @@
+#titulo { /* # para buscar un id */
+    color: tomato;
+}
+
+.texto { /* . para buscar una clase */
+    color: slateblue;
+}
+
+p.texto{ /* p. para buscar todos las etiquetas que tengan la clase texto */
+    color: cadetblue;
+}
+
+p.especial { /* p. para buscar todas las etiquetas que tengan la clase especial */
+    color: mediumseagreen;
+}
+
+div p { /* todos los div que tengan un p */
+    color: aquamarine;
+}
+
+div h2 {
+    color: brown;
+}
