@@ -18,6 +18,12 @@ div p { /* todos los div que tengan un p */
     color: aquamarine;
 }
 
-div h2 {
+div h2, div h3 { /* todos los div que tengan un h2 y h3 */
     color: brown;
 }
+
+* { /* * selector universal que cambia las propiedades de todas aquellas etiquetas que no hayan sido seleccionadas previamente */
+    font-size: 24px;
+    color: black;
+}
+
