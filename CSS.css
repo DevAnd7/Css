@@ -1,12 +1,13 @@
 ul #SelectElement {
     color: blue;
 }
-
 /* p{
     color: blue;
-}
-*/
+}*/
 
-.Clases {
+ul .Clases{
     color: rebeccapurple;
 }
+/* .Clases {
+    color: rebeccapurple;
+}*/
