@@ -1,7 +1,8 @@
-/* p { ESTE ES EL SELECT ELEMENT
+#SelectElement {
     color: blue;
-}*/
-
-SelectElement {
-    color: yellow;
 }
+
+/* p{
+    color: blue;
+}
+*/
