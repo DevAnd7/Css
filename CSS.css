@@ -16,7 +16,7 @@ ul .Clases{
     color: green;
 }
 
-/*Propiedades del texto*/
+/*Propiedades del texto
 p {
     color: red;
     font-family: Arial, Helvetica, sans-serif;
@@ -26,4 +26,6 @@ p {
     text-align: center;
     text-decoration: underline;
     line-height: 1.5;
-}
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}*/
